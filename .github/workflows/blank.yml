@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print Welcome
-        run: "Welcome with Mina"
+        run: echo "Welcome with Mina"
       - name: Print Good bye
-        run: "Good bye and see you soon"
+        run: echo "Good bye and see you soon"
         
